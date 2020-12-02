@@ -1,0 +1,10 @@
+C:\Users\japhh\Desktop\MediSmartApi\UserDataAccess\bin\Debug\UserDataAccess.dll.config
+C:\Users\japhh\Desktop\MediSmartApi\UserDataAccess\bin\Debug\UserDataAccess.dll
+C:\Users\japhh\Desktop\MediSmartApi\UserDataAccess\bin\Debug\UserDataAccess.pdb
+C:\Users\japhh\Desktop\MediSmartApi\UserDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\japhh\Desktop\MediSmartApi\UserDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\japhh\Desktop\MediSmartApi\UserDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\japhh\Desktop\MediSmartApi\UserDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\japhh\Desktop\MediSmartApi\UserDataAccess\obj\Debug\UserDataAccess.csprojResolveAssemblyReference.cache
+C:\Users\japhh\Desktop\MediSmartApi\UserDataAccess\obj\Debug\UserDataAccess.dll
+C:\Users\japhh\Desktop\MediSmartApi\UserDataAccess\obj\Debug\UserDataAccess.pdb
